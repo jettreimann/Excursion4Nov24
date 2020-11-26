@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Excursion4Nov24</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--my strings-->
+    <string name="UMICH_label">Please enter your UMID number: </string>
+    <string name="UMICH_field_hint">UMID (e.g. 12345678)</string>
+    <string name="next_button_text">NEXT STEP</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="have_you_experienced">Have you experienced:</string>
+    <!--survey strings-->
+    <string name="bullet_list_item1">Fever over 100F?\n</string>
+    <string name="bullet_list_item2">New Shortness of Breath?\n</string>
+    <string name="bullet_list_item3">New Coughing?\n</string>
+
+    <string name="bullet_list_item4">Chills?\n</string>
+    <string name="bullet_list_item5">Muscle Ache?\n</string>
+    <string name="bullet_list_item6">Sore Throat?\n</string>
+
+    <string name="bullet_list_item7">Lost Sense of Taste or Smell?\n</string>
+    <string name="bullet_list_item8">Headaches?\n</string>
+    <string name="bullet_list_item9">Been in Contact With Someone Who Has Tested Positive for COVID-19 in the Past 14 Days? \n</string>
+
+    <!-- Third page text -->
+    <string name="third_page_text">Please take a temperature check on Campus, then proceed to scan the QR code you are presented with.</string>
+</resources>
